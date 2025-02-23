@@ -1,0 +1,14 @@
+:root {
+    --size-h1: 2.25rem;
+    --weight-h1: bold;
+    --size-h2: 2rem;
+    --weight-h2: bold;
+    --size-h3: 1.75rem;
+    --weight-h3: bold;
+    --size-headline: 1rem;
+    --weight-headline: bold;
+    --size-paragraph: 1rem;
+    --weight-paragraph: normal;
+    --size-subtitle: 1rem;
+    --style-subtitle: italic;
+}
